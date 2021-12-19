@@ -1,14 +1,14 @@
 {
     "bot-account":{ 
-        "username": "ChunkLoader",
+        "username": Branko",
         "password": "",
-        "type": "mojang"
+        "type": "afkbot"
     },
 
     "server":{
-        "ip": "owarinet.ender-zone.com",
-        "port": 25951,
-        "version": "1.17.1"
+        "ip": "ult9.falix.gg:19062",
+        "port": 25565,
+        "version": "1.18"
     },
 
     "position":{
